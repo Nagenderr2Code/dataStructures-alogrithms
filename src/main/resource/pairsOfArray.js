@@ -7,4 +7,5 @@ function logAllPairsOfArray(array) {
     }
 }
 
+
 logAllPairsOfArray(boxes)
