@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600b73f2-4a3c-4e80-927e-902ef014d8d5" name="Default Changelist" comment="Big O Notation rule 3 Different inputs should have different variables Closes #4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindPairHasSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resource/findPairHasSum.js" afterDir="false" />
+    <list default="true" id="600b73f2-4a3c-4e80-927e-902ef014d8d5" name="Default Changelist" comment="ReverseString Closes #6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resource/reverseString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayListBenchmark.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,28 +26,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
-          <entry key="js" value="5" />
+          <entry key="java" value="10" />
+          <entry key="js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JAVA" value="10" />
+          <entry key="JavaScript" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1819" />
+          <entry key="java" value="2483" />
           <entry key="js" value="1" />
-          <entry key="txt" value="28" />
+          <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1819" />
+          <entry key="JAVA" value="2483" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
     </session>
@@ -64,7 +66,48 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ArrayListBenchmark.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resource/reverseString.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="2899" column="19" selection-start-line="2899" selection-start-column="19" selection-end-line="2899" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resource/findPairHasSum.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
@@ -99,6 +142,10 @@
         <option value="$PROJECT_DIR$/src/main/resource/pairsOfArray.js" />
         <option value="$PROJECT_DIR$/src/main/java/FindPairHasSum.java" />
         <option value="$PROJECT_DIR$/src/main/resource/findPairHasSum.js" />
+        <option value="$PROJECT_DIR$/src/test/java/ArrayListBenchmark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/reverseString.js" />
       </list>
     </option>
   </component>
@@ -153,6 +200,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dataStructures-alogrithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructures-alogrithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +216,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545689856724" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545765010293" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -179,9 +232,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindPairHasSum">
-    <configuration name="FindNemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.FindNemo1" />
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ArrayExample" />
       <module name="dataStructures-alogrithms" />
       <extension name="coverage">
         <pattern>
@@ -232,8 +285,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.TestJava" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ReverseString" />
       <module name="dataStructures-alogrithms" />
       <extension name="coverage">
         <pattern>
@@ -246,19 +299,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestJava" />
-      <item itemvalue="Application.FindNemo1" />
       <item itemvalue="Application.PrintFirstItemThenFirstHalfThenSayHi100Times" />
       <item itemvalue="Application.PairsOfArray" />
       <item itemvalue="Application.FindPairHasSum" />
+      <item itemvalue="Application.ArrayExample" />
+      <item itemvalue="Application.ReverseString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.FindPairHasSum" />
         <item itemvalue="Application.PairsOfArray" />
         <item itemvalue="Application.PrintFirstItemThenFirstHalfThenSayHi100Times" />
-        <item itemvalue="Application.FindNemo1" />
-        <item itemvalue="Application.TestJava" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +326,7 @@
       <option name="presentableId" value="Default" />
       <updated>1545595470170</updated>
       <workItem from="1545595475941" duration="4806000" />
-      <workItem from="1545672657539" duration="6130000" />
+      <workItem from="1545672657539" duration="13922000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1545596759305</created>
@@ -310,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545601879072</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FindPairHasSum with O(n^2) and O(n) Closes #5">
+      <created>1545689980955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545689980955</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10936000" />
+    <option name="totallyTimeSpent" value="18728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -330,8 +390,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30882353" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3480392" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12908497" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41993463" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -351,7 +411,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,8 +421,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.034313727" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37091503" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23856209" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41993463" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -394,7 +454,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Big O Notation rule 2 Remove Constants Closes #3" />
     <MESSAGE value="Big O Notation rule 3 Different inputs should have different variables Closes #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Big O Notation rule 3 Different inputs should have different variables Closes #4" />
+    <MESSAGE value="FindPairHasSum with O(n^2) and O(n) Closes #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindPairHasSum with O(n^2) and O(n) Closes #5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,8 +478,23 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ReverseString.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>toBeReversed.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/TestJava.java">
@@ -477,6 +553,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="492" column="34" lean-forward="true" selection-start-line="492" selection-start-column="34" selection-end-line="492" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="2899" column="19" selection-start-line="2899" selection-start-column="19" selection-end-line="2899" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FindPairHasSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -487,10 +584,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArrayListBenchmark.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resource/findPairHasSum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/reverseString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
