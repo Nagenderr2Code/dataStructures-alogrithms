@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600b73f2-4a3c-4e80-927e-902ef014d8d5" name="Default Changelist" comment="ReverseString Closes #6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resource/reverseString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayListBenchmark.java" afterDir="false" />
+    <list default="true" id="600b73f2-4a3c-4e80-927e-902ef014d8d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,32 +17,33 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
           <entry key="js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
           <entry key="JavaScript" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2483" />
+          <entry key="java" value="3331" />
           <entry key="js" value="1" />
           <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2483" />
+          <entry key="JAVA" value="3331" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="42" />
         </counts>
@@ -57,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FindPairHasSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="84">
               <caret line="7" column="27" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ArrayExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -89,11 +87,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resource/reverseString.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MergeSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="59094">
               <caret line="2899" column="19" selection-start-line="2899" selection-start-column="19" selection-end-line="2899" selection-end-column="19" />
             </state>
           </provider>
@@ -111,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resource/findPairHasSum.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -121,8 +131,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -146,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ArrayExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/resource/reverseString.js" />
+        <option value="$PROJECT_DIR$/src/main/java/MergeSortedArrays.java" />
       </list>
     </option>
   </component>
@@ -216,7 +227,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545765010293" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546118900423" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -232,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseString">
+  <component name="RunManager" selected="Application.MergeSortedArrays">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.ArrayExample" />
       <module name="dataStructures-alogrithms" />
@@ -259,8 +270,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.PairsOfArray" />
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.MergeSortedArrays" />
       <module name="dataStructures-alogrithms" />
       <extension name="coverage">
         <pattern>
@@ -272,8 +283,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFirstItemThenFirstHalfThenSayHi100Times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.PrintFirstItemThenFirstHalfThenSayHi100Times" />
+    <configuration name="PairsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.PairsOfArray" />
       <module name="dataStructures-alogrithms" />
       <extension name="coverage">
         <pattern>
@@ -299,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrintFirstItemThenFirstHalfThenSayHi100Times" />
       <item itemvalue="Application.PairsOfArray" />
       <item itemvalue="Application.FindPairHasSum" />
       <item itemvalue="Application.ArrayExample" />
       <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.MergeSortedArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArrays" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.FindPairHasSum" />
         <item itemvalue="Application.PairsOfArray" />
-        <item itemvalue="Application.PrintFirstItemThenFirstHalfThenSayHi100Times" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +337,8 @@
       <option name="presentableId" value="Default" />
       <updated>1545595470170</updated>
       <workItem from="1545595475941" duration="4806000" />
-      <workItem from="1545672657539" duration="13922000" />
+      <workItem from="1545672657539" duration="21213000" />
+      <workItem from="1546116766131" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1545596759305</created>
@@ -370,17 +382,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545689980955</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ReverseString Closes #6">
+      <created>1545765016966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545765016966</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18728000" />
+    <option name="totallyTimeSpent" value="28148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -390,8 +409,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12908497" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41993463" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.099673204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.050653595" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -411,7 +430,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -421,8 +440,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23856209" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41993463" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.099673204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.050653595" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -455,7 +474,8 @@
     <MESSAGE value="Big O Notation rule 2 Remove Constants Closes #3" />
     <MESSAGE value="Big O Notation rule 3 Different inputs should have different variables Closes #4" />
     <MESSAGE value="FindPairHasSum with O(n^2) and O(n) Closes #5" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindPairHasSum with O(n^2) and O(n) Closes #5" />
+    <MESSAGE value="ReverseString Closes #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseString Closes #6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,11 +504,28 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSortedArrays.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSortedArrays.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>secondArray.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>toBeReversed.charAt(i)</expression-string>
         <language-id>JAVA</language-id>
@@ -553,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -567,16 +597,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="2899" column="19" selection-start-line="2899" selection-start-column="19" selection-end-line="2899" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FindPairHasSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="84">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -587,10 +610,10 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ArrayListBenchmark.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/findPairHasSum.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="294">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -604,7 +627,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/resource/reverseString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59094">
+          <caret line="2899" column="19" selection-start-line="2899" selection-start-column="19" selection-end-line="2899" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/findPairHasSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MergeSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
